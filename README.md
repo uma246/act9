@@ -1,3 +1,3 @@
 #  Temperature Monitor - Control de Temperatura 
 
-ya no quiero trbaajar
+Sistema básico de control de temperatura
