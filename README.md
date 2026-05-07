@@ -1,2 +1,2 @@
-Sistema de control de temperatura con validación de sensor.
 
+Sistema de control de temperatura con validación de sensor.
