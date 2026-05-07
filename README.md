@@ -1,3 +1,1 @@
-#  Temperature Monitor - Control de Temperatura 
-
-Sistema básico de control de temperatura
+Sistema de control de temperatura con validacion de sensor.
